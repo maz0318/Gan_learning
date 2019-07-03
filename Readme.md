@@ -15,9 +15,15 @@ pytorch1.0
 
 * 效果:
 
-  * 真实图片
+  <div style="align: left">
+  <img src='result/gan/real_images.png'/>
+  </div>
 
-  ![avatar](result/gan/real_images.png)
-  * 运行500个epoch后生成的图片
+  ​					真实图片
 
-    ![avatar](result/gan/fake_images_500.png)
+  <div style="align: left">
+  <img src='result/gan/fake_images_500.png'/>
+  </div>
+
+  ​	训练500个epoch后生成的图片
+
